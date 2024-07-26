@@ -28,7 +28,7 @@ struct ContentView: View {
                         .aspectRatio(contentMode: .fit)
                         .padding(.all, 50.0)
                     .cornerRadius(15)
-                    
+             //comment
                 }
                 
                 Spacer()
